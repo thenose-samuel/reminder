@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "180852023400",
+    "project_id": "reminder-d374b",
+    "storage_bucket": "reminder-d374b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180852023400:android:087ead19e68c55ffa8dbdd",
+        "android_client_info": {
+          "package_name": "com.thenose.reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180852023400-9ka9t9nr20ol86lvl4ni5g22f80kr3ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thenose.reminder",
+            "certificate_hash": "103b8c78c036a1170fe2def03276b41b597587a6"
+          }
+        },
+        {
+          "client_id": "180852023400-n23iafm0adqef9p319ecatbphq45ok5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldbnzyX7fw4PBMY9wONVHam0o2EiLdZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180852023400-n23iafm0adqef9p319ecatbphq45ok5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
